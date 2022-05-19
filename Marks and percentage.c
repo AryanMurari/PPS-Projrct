@@ -1,9 +1,5 @@
 #include <stdio.h>
-#include <string.h>
 #include <math.h>
-#include <stdlib.h>
-
-
 
 void main() {
 
@@ -39,6 +35,8 @@ void main() {
 
     printf("\n\n Total marks scored  = %d /600", sum );
 
-     printf("\n\n Percentage Scored  = %f", percentage );
+    printf("\n\n Percentage Scored  = %f", percentage );
+	
+    return 0;
 
 }
